@@ -58,6 +58,19 @@
     opacity: 0.8;
   }
   
+  footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-size: 15px;
+    color: beige;
+    text-align: center;
+  }
+  footer p{
+    margin-top: .5rem;
+  }
+ 
   
   /*  Media queries */
   @media screen and (max-width: 500px){
